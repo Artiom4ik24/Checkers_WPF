@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checkers_WPF", "Checkers_WPF\Checkers_WPF.csproj", "{362ABDD5-D24C-4482-B77C-6F59425E44B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{362ABDD5-D24C-4482-B77C-6F59425E44B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{362ABDD5-D24C-4482-B77C-6F59425E44B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{362ABDD5-D24C-4482-B77C-6F59425E44B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{362ABDD5-D24C-4482-B77C-6F59425E44B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
